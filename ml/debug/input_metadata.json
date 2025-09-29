@@ -1,0 +1,17 @@
+{
+  "input_path": "input/input.jpeg",
+  "original_size": {
+    "width": 1443,
+    "height": 1080
+  },
+  "working_size": {
+    "width": 1024,
+    "height": 766
+  },
+  "target_long_edge": 1024,
+  "debug_image": "debug/input_norm.jpg",
+  "source_orientation": null,
+  "auto_rotation_deg": 90,
+  "manual_rotation_deg": 0,
+  "applied_rotation_deg": 90
+}

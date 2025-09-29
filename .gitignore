@@ -1,0 +1,16 @@
+# Virtual environments
+.venv/
+*/.venv/
+
+# Model weight files
+ml/models/
+zerodim/models/
+
+# Python caches and artifacts
+__pycache__/
+*/__pycache__/
+.pycache/
+*.pyc
+
+# OS metadata
+.DS_Store

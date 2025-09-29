@@ -1,0 +1,5 @@
+torch>=2.8.0
+timm>=1.0.20
+numpy>=2.0.0
+pillow>=11.0.0
+opencv-python>=4.12.0
