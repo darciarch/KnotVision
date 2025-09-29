@@ -22,3 +22,23 @@ venv/
 */venv/
 # Ignore top-level models dir if exists
 models/
+
+# Ignore additional virtualenv folders and model artifacts
+# Virtualenvs (any depth)
+**/venv/
+**/.venv/
+**/env/
+# Common model directories
+**/models/
+**/checkpoints/
+# Common model file extensions anywhere
+*.pt
+*.pth
+*.ckpt
+*.bin
+*.onnx
+*.h5
+*.tflite
+*.pb
+*.pkl
+*.safetensors
