@@ -42,3 +42,9 @@ models/
 *.pb
 *.pkl
 *.safetensors
+
+# Project-wide ignores for outputs and TIFF files
+**/outputs/
+**/output/
+*.tif
+*.tiff
