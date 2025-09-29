@@ -1,3 +1,4 @@
+# Added by assistant
 # Virtual environments
 .venv/
 */.venv/
@@ -14,3 +15,10 @@ __pycache__/
 
 # OS metadata
 .DS_Store
+# Also ignore common venv names
+env/
+venv/
+*/env/
+*/venv/
+# Ignore top-level models dir if exists
+models/
